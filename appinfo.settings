@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MacEditor" GeneratedClassName="appinfo">
+  <Profiles />
+  <Settings>
+    <Setting Name="teTabIndent" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="teFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Consolas, 10pt</Value>
+    </Setting>
+    <Setting Name="shFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Consolas, 10pt</Value>
+    </Setting>
+    <Setting Name="shKeyword" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="shType" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkCyan</Value>
+    </Setting>
+    <Setting Name="shComment" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="shString" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Brown</Value>
+    </Setting>
+    <Setting Name="teDefFileExt" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="shDefFileExt" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
