@@ -1,0 +1,14 @@
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\bin\Release\MacEditor.exe.config
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\bin\Release\MacEditor.exe
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\bin\Release\MacEditor.pdb
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\bin\Release\ICSharpCode.TextEditor.dll
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.ColorChanger.resources
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.Form1.resources
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.Properties.Resources.resources
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.SyntaxHighlighterFont.resources
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.TabIndentChange.resources
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.TextEditorFont.resources
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.csproj.GenerateResource.cache
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.csproj.CopyComplete
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.exe
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.pdb
