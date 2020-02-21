@@ -92,8 +92,11 @@ namespace MacEditor
 
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (texteditor.Text == "")
-                return;
+            if (texteditor.Text == "" || texteditor.Text == "" && file.Text.Contains("File: ") == true && FileDirectory != "")
+            {
+                file.Text = "(New File)";
+                FileDirectory = "";
+            }
             else if (texteditor.Text != "")
             {
                 DialogResult Reminder = MessageBox.Show("Are you sure you'd like to continue without saving?\nIf you continue, you will lose everything and you won't be able to recover any of it.\n\n[Yes] - [No]", "Warning: Unsaved Changes", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
@@ -186,8 +189,11 @@ namespace MacEditor
 
         private void newToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            if (syntaxeditor.Text == "")
-                return;
+            if (syntaxeditor.Text == "" || syntaxeditor.Text == "" && ffile.Text.Contains("File: ") == true && ffileDirectory != "")
+            {
+                ffile.Text = "(New File)";
+                ffileDirectory = "";
+            }
             else if (syntaxeditor.Text != "")
             {
                 DialogResult Reminder = MessageBox.Show("Are you sure you'd like to continue without saving?\nIf you continue, you will lose everything and you won't be able to recover any of it.\n\n[Yes] - [No]", "Warning: Unsaved Changes", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
