@@ -7,3 +7,12 @@
 >
 >The name of the new editor will be called MacEditor (ReBug).
 >```
+
+### MacEditor (ReBug) | Leaked Features
+>```
+>The MacEditor (ReBug) will include features such as:
+>1. Editable Syntax Patterns - You can add or remove words from the Syntax Highlighter's Dictionary.
+>2. Adding a dictionary to the Syntax Highlighter.
+>3. A compiling feature for C# code.
+>4. Shortcuts for pretty much everything.
+>```
