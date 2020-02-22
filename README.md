@@ -1,4 +1,4 @@
-# MacEditor
+##### MacEditor
 >```
 >I forgot to add the shortcuts for the MacEditor, but they will be coming very soon.
 >Along with a checkbox to determine the visibility of the shortcuts.
