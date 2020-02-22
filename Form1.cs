@@ -434,5 +434,27 @@ namespace MacEditor
             BackColor(stringColor, Normal);
         }
         #endregion
+        #region Label1
+        private Color _BackColor(Label Label, Color BackColor)
+        {
+            return Label.BackColor = BackColor;
+        }
+
+        private void label1_MouseEnter(object sender, EventArgs e)
+        {
+            _BackColor(label1, Color.FromName("Window"));
+        }
+
+        private void label1_MouseLeave(object sender, EventArgs e)
+        {
+            _BackColor(label1, Color.FromName("Control"));
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            DefaultFileExtensionIndex dfei = new DefaultFileExtensionIndex();
+            dfei.ShowDialog();
+        }
+        #endregion
     }
 }

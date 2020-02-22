@@ -109,7 +109,7 @@ namespace MacEditor {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        [global::System.Configuration.DefaultSettingValueAttribute("2")]
         public int teDefFileExt {
             get {
                 return ((int)(this["teDefFileExt"]));
@@ -121,7 +121,7 @@ namespace MacEditor {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
+        [global::System.Configuration.DefaultSettingValueAttribute("2")]
         public int shDefFileExt {
             get {
                 return ((int)(this["shDefFileExt"]));

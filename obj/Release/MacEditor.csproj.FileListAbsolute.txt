@@ -13,3 +13,4 @@ C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.csp
 C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.exe
 C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.pdb
 C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.csprojAssemblyReference.cache
+C:\Users\ShadowArcher\Desktop\VS Proj's\Apps\MacEditor\obj\Release\MacEditor.DefaultFileExtensionIndex.resources
