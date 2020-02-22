@@ -77,7 +77,7 @@ namespace MacEditor
             OpenFileDialog ofd = new OpenFileDialog();
 
             ofd.Title = "Open A File";
-            ofd.Filter = "Text Files|*.txt|Any File|*.*";
+            ofd.Filter = "Text File|*.txt|Any File|*.*";
             ofd.FilterIndex = appinfo.Default.teDefFileExt;
             
             if (ofd.ShowDialog() == DialogResult.OK)
@@ -174,7 +174,7 @@ namespace MacEditor
             OpenFileDialog ofd = new OpenFileDialog();
 
             ofd.Title = "Open A File";
-            ofd.Filter = "Text Files|*.txt|Any File|*.*";
+            ofd.Filter = "Text File|*.txt|Any File|*.*";
             ofd.FilterIndex = appinfo.Default.shDefFileExt;
 
             if (ofd.ShowDialog() == DialogResult.OK)
