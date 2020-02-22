@@ -1,10 +1,9 @@
 # MacEditor
- It's a basic text editor that also has a Syntax Highlighter with set words. You can edit and save the fonts and syntax colors and even the text editor's tab indent! The info for the stuff is on the bottom of the window.
+```
+I forgot to add the shortcuts for the MacEditor, but they will be coming very soon.
+Along with a checkbox to determine the visibility of the shortcuts.
 
-# Information - MANDATORY
-So, this information is NEED-TO-KNOW because I need to let anyone that might want to use this program, that it has absolutely
-NO shortcuts because I forgot them. But, on the plus side, pretty much everything can be saved.
+Also, I will be adding the ability to automatically save any file after it's been opened or saved.
 
-# Other
-I unfortunately couldn't get the RichTextBox's font to be displayed and updated to a label, but I managed to make editable colors for
-the Syntax Highlighting feature.
+The name of the new editor will be called MacEditor (ReBug).
+```
